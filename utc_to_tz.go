@@ -1,6 +1,6 @@
 package timeutils
 
-import "github.com/golang-module/carbon/v2"
+import "github.com/dromara/carbon/v2"
 
 // UtcToTZ takes a the provided UTC date and time string and converts to the specified timezone.
 //
